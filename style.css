@@ -17,7 +17,7 @@ body {
     padding: 60px;
 }
 h2 {
-    color: #742222;
+    color: #8d4747;
     font-size: 24px;
     margin-bottom: 10px;
 }
@@ -45,7 +45,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center; 
-    background-color: #0f0505;
+    background-color: #7e7575;
 }
 
 .my-box {
